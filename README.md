@@ -25,8 +25,6 @@
 
 *"Data speaks louder than words, and I love decoding its story!"* 🚀
 
-![Ikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ---
 *Thank you for visiting my profile!* 😊
 
